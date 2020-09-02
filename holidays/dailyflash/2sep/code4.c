@@ -3,7 +3,7 @@
 
  void main() {
  
-	 int rows,num = 1;;
+	 int rows,num = 1;
 	 printf("Enter the rows : ");
 	 scanf("%d",&rows);
 
